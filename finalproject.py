@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 shazam_url = "https://shazam.p.rapidapi.com/charts/track"
 
 headers = {
-	"X-RapidAPI-Key": "a9414d258fmsh1fdef3a7910ac35p1dc953jsn624c88c2e27f",
+	"X-RapidAPI-Key": "828e20a53bmsh201de6eafe56384p1bd972jsn757aabdd0033",
 	"X-RapidAPI-Host": "shazam.p.rapidapi.com"
 }
 
